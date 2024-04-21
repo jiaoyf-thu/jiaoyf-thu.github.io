@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yifei Jiao"
-  pronouns         : "he/him"
-  bio              : "Hi, I'm Yifei Jiao, a PhD student at Tsinghua University."
+  pronouns         : # "he/him"
+  bio              : "Hi all, I'm Yifei Jiao, a PhD student at Tsinghua University."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
