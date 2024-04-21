@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hi, I'm Yifei"
 title_separator          : "-"
-name                     : &name "Yifei Jiao"
+name                     : &name "Yifei Jiao (He/him)"
 description              : &description "personal description"
 url                      : https://jiaoyf-thu.github.io
 baseurl                  : ""
