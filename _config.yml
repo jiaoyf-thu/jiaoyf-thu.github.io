@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hi, I'm Yifei"
 title_separator          : "-"
-name                     : &name "Yifei Jiao (He/him)"
+name                     : &name "Yifei Jiao"
 description              : &description "personal description"
 url                      : https://jiaoyf-thu.github.io
 baseurl                  : ""
@@ -22,7 +22,7 @@ repository               : "jiaoyf-thu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yifei Jiao"
+  name             : "Yifei Jiao (he/him)"
   pronouns         : # "he/him"
   bio              : "Hi all, I'm Yifei Jiao, a PhD student at Tsinghua University."
   location         : "Beijing, China"
