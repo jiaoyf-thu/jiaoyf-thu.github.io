@@ -13,9 +13,39 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 ## Experience
 
-+ 2024--present: Visiting student, LPL, University of Arizona, Tucson, AZ, USA
-+ 2020--present: PhD student,      Tsinghua University, Beijing, China
-+ 2016--2020:    Bachelor,         Tsinghua University, Beijing, China
+<table>
+  <tr>
+    <td>Lunar & Planetary Laboratory, University of Arizona</td>
+    <td>Tucson, AZ, USA</td>
+    <td>2024 – Present</td>
+  </tr>
+  <tr>
+    <td><em>Visiting Student</em></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tsinghua University</td>
+    <td>Beijing, China</td>
+    <td>2020 – Present</td>
+  </tr>
+  <tr>
+    <td><em>PhD Student</em></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tsinghua University</td>
+    <td>Beijing, China</td>
+    <td>2016 – 2020</td>
+  </tr>
+  <tr>
+    <td><em>Bachelor</em></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
