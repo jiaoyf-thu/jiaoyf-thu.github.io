@@ -27,4 +27,4 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 7. Z. Zhang, N. Zhang, **Y. Jiao**, H. Baoyin, J. Li. Multitree search for multisatellite responsiveness scheduling considering orbital maneuvering. *IEEE Transactions on Aerospace and Electronic Systems*, 2021. [view](https://doi.org/10.1109/TAES.2021.3129723)
 
 ## CV
-A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Rezume.pdf).
+A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Resume.pdf).
