@@ -11,17 +11,17 @@ redirect_from:
 
 I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
 
++ Earth's quasi-moon as a piece of lunar impact debris
+
 <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="600">
 
-Earth's quasi-moon as a piece of lunar impact debris (Paper #1--3)
++ SPH-DEM method modelling imapcts on rubble-pile asteroids
 
 <img src="https://jiaoyf-thu.github.io/images/fig2.png"  width="600">
 
-SPH-DEM method modelling imapcts on rubble-pile asteroids (Paper #4)
++ Where should we impact an asteroid to effectively deflect it
 
 <img src="https://jiaoyf-thu.github.io/images/fig1.png"  width="600">
-
-Where should we impact an asteroid to effectively deflect it (Paper #5)
 
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
