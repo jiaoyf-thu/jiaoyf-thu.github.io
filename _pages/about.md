@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
 
-![Earth's quasi-moon as a piece of lunar imapct debris](https://jiaoyf-thu.github.io/files/Resume.pdf)
+![Earth's quasi-moon as a piece of lunar imapct debris](https://jiaoyf-thu.github.io/images/fig3.png)
 
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
