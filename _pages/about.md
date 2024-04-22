@@ -11,6 +11,12 @@ redirect_from:
 
 I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science. [See more](jiaoyf-thu.github.io/research/).
 
+## Education
+
++ 2024--present: Visiting student, LPL, University of Arizona, Tucson, AZ, USA
++ 2020--present: PhD student, Tsinghua University, Beijing, China
++ 2016--2020: Bachelor, Tsinghua University, Beijing, China
+
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
 2. **Y. Jiao**, et al. Dynamical constraints linking Earth co-orbital asteroid Kamoʻoalewa to the lunar Giordano Bruno impact. *Lunar and Planetary Science Conference*, 2024. [view](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1973.pdf)
