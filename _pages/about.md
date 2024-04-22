@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
 
+---
+
 # Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid (469219) Kamo`oalewa's Intriguing Journey from Lunar Crater Giordano Bruno to Earth 1:1 Resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
 2. **Y. Jiao**, et al. \textit{Dynamical Constraints Linking Earth Co-Orbital Asteroid Kamo`oalewa to the Lunar Giordano Bruno Impact. Lunar and Planetary Science Conference (2024)}
@@ -20,6 +22,8 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
     % \item X. Yan, et al. \textit{Material point method (MPM) in simulating hypervelocity impact on asteroids. Icarus (submitted, 2024)}
     \item N. Zhang, Z. Zhang, \textbf{Y. Jiao}, H. Baoyin. \textit{Multi-Trajectory Combination for Multiple Ground Target Observation by Maneuvering On-Orbit Satellites. IEEE Transactions on Aerospace and Electronic Systems (2023)} %\href{https://doi.org/10.1109/TAES.2023.3303409}{\uline{online version}}
     \item Z. Zhang, N. Zhang, \textbf{Y. Jiao}, H. Baoyin, J. Li. \textit{Multitree Search for Multisatellite Responsiveness Scheduling Considering Orbital Maneuvering. IEEE Transactions on Aerospace and Electronic Systems (2021)} %\href{https://doi.org/10.1109/TAES.2021.3129723}{\uline{online version}}
+
+---
 
 # CV
 A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Rezume.pdf).
