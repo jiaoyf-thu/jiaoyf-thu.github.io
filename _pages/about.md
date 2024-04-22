@@ -14,9 +14,9 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 2. **Y. Jiao**, et al. Dynamical constraints linking Earth co-orbital asteroid Kamoʻoalewa to the lunar Giordano Bruno impact. *Lunar and Planetary Science Conference*, 2024.
 3. **Y. Jiao**, et al. Exploring asteroid (469219) Kamoʻoalewa's possible origin from lunar crater Giordano Bruno. *Asteroids, Comets, Meteors Conference*, 2023.
 4. **Y. Jiao**, X. Yan, B. Cheng, H. Baoyin. SPH-DEM modeling of hypervelocity impacts on rubble-pile asteroids. *Monthly Notices of the Royal Astronomical Society*, 2023. [view](https://doi.org/10.1093/mnras/stad3888)
-5. **Y. Jiao**, B. Cheng, H. Baoyin. Optimal kinetic-impact geometry for asteroid deflection exploiting $\Delta v$ hodograph. *Journal of Guidance, Control, and Dynamics*, 2022. [view](https://arc.aiaa.org/doi/10.2514/1.G006876)
-6. N. Zhang, Z. Zhang, **Y. Jiao**, H. Baoyin. Multi-Trajectory Combination for Multiple Ground Target Observation by Maneuvering On-Orbit Satellites. *IEEE Transactions on Aerospace and Electronic Systems*, 2023. [view](https://doi.org/10.1109/TAES.2023.3303409)
-7. Z. Zhang, N. Zhang, **Y. Jiao**, H. Baoyin, J. Li. Multitree Search for Multisatellite Responsiveness Scheduling Considering Orbital Maneuvering. *IEEE Transactions on Aerospace and Electronic Systems*, 2021. [view](https://doi.org/10.1109/TAES.2021.3129723)
+5. **Y. Jiao**, B. Cheng, H. Baoyin. Optimal kinetic-impact geometry for asteroid deflection exploiting Delta-V hodograph. *Journal of Guidance, Control, and Dynamics*, 2022. [view](https://arc.aiaa.org/doi/10.2514/1.G006876)
+6. N. Zhang, Z. Zhang, **Y. Jiao**, H. Baoyin. Multi-trajectory combination for multiple ground target observation by maneuvering on-orbit satellites. *IEEE Transactions on Aerospace and Electronic Systems*, 2023. [view](https://doi.org/10.1109/TAES.2023.3303409)
+7. Z. Zhang, N. Zhang, **Y. Jiao**, H. Baoyin, J. Li. Multitree search for multisatellite responsiveness scheduling considering orbital maneuvering. *IEEE Transactions on Aerospace and Electronic Systems*, 2021. [view](https://doi.org/10.1109/TAES.2021.3129723)
 
 # CV
 A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Rezume.pdf).
