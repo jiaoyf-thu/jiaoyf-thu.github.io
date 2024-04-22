@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
+> I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University, and also a visiting student at Lunar & Planetary Laboratory, University of Arizona. My research interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
 
 # Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
@@ -19,4 +19,4 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 7. Z. Zhang, N. Zhang, **Y. Jiao**, H. Baoyin, J. Li. Multitree search for multisatellite responsiveness scheduling considering orbital maneuvering. *IEEE Transactions on Aerospace and Electronic Systems*, 2021. [view](https://doi.org/10.1109/TAES.2021.3129723)
 
 # CV
-A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Rezume.pdf).
+> A copy of my CV is availble [here](https://jiaoyf-thu.github.io/files/Rezume.pdf).
