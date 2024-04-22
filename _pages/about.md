@@ -13,6 +13,10 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 ![Earth's quasi-moon as a piece of lunar imapct debris](https://jiaoyf-thu.github.io/images/fig3.png)
 
+![New SPH-DEM method for rubble-pile asteroid impacts](https://jiaoyf-thu.github.io/images/fig2.png)
+
+![Where should we impact an asteroid to effectively deflect it](https://jiaoyf-thu.github.io/images/fig1.png)
+
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
 2. **Y. Jiao**, et al. Dynamical constraints linking Earth co-orbital asteroid Kamoʻoalewa to the lunar Giordano Bruno impact. *Lunar and Planetary Science Conference*, 2024. [view](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1973.pdf)
