@@ -5,7 +5,10 @@ main:
     url: /
 
   - title: "Research"
-    url: /research/    
+    url: /research/
+
+  - title: "CV"
+  url: "https://jiaoyf-thu.github.io/files/Resume.pdf"
   
   # - title: "Publications"
   #   url: /publications/
