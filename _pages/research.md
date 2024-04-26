@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Works
 
-### [Earth's quasi-moon as a piece of lunar impact debris](https://www.nature.com/articles/s41550-024-02258-z)
+### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
 
 <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="600">
 
