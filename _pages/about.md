@@ -18,7 +18,7 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 + 2016--2020: Bachelor, Tsinghua University, Beijing, China
 
 ## Publications
-1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. [view](https://www.nature.com/articles/s41550-024-02258-z)
+1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">view</a>
 2. **Y. Jiao**, et al. Dynamical constraints linking Earth co-orbital asteroid Kamoʻoalewa to the lunar Giordano Bruno impact. *Lunar and Planetary Science Conference*, 2024. [view](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1973.pdf)
 3. **Y. Jiao**, et al. Exploring asteroid (469219) Kamoʻoalewa's possible origin from lunar crater Giordano Bruno. *Asteroids, Comets, Meteors Conference*, 2023. [view](https://www.hou.usra.edu/meetings/acm2023/pdf/2195.pdf)
 4. **Y. Jiao**, X. Yan, B. Cheng, H. Baoyin. SPH-DEM modeling of hypervelocity impacts on rubble-pile asteroids. *Monthly Notices of the Royal Astronomical Society*, 2023. [view](https://doi.org/10.1093/mnras/stad3888)
