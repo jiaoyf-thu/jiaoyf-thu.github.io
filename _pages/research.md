@@ -14,6 +14,6 @@ author_profile: true
 
 <img src="https://jiaoyf-thu.github.io/images/fig2.png"  width="600">
 
-### [Where should we impact an asteroid to effectively deflect it](https://arc.aiaa.org/doi/10.2514/1.G006876)
+### <a href="https://arc.aiaa.org/doi/10.2514/1.G006876" target="_blank">Where should we impact an asteroid to effectively deflect it</a>
 
 <img src="https://jiaoyf-thu.github.io/images/fig1.png"  width="600">
