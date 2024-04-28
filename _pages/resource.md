@@ -6,4 +6,4 @@ author_profile: true
 
 ## Resource Links
 
-### [Soft-Particle N-body Code DEMBody](https://bin-cheng-thu.github.io/dembody-code/)
+### <a href="https://bin-cheng-thu.github.io/dembody-code/" target="_blank">Soft-Particle N-body Code DEMBody</a>
