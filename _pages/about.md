@@ -13,7 +13,7 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 ## Education
 
-+ Lunar and Planetary Laboratory, University of Arizona, Tucson, AZ, USA<br />
++ *Lunar and Planetary Laboratory, University of Arizona, Tucson, AZ, USA*<br />
   Visiting Student (2024--present)
 + School of Aerospace Engineering, Tsinghua University, Beijing, China<br />
   PhD Student (2020--present)
