@@ -13,9 +13,9 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 ## Education
 
-+ (2024--present) Visiting Student, University of Arizona, Tucson, AZ, USA
-+ (2020--present) PhD Student, Tsinghua University, Beijing, China
-+ (2016--2020) Bachelor, Tsinghua University, Beijing, China
++ **2024--present**: Visiting Student, University of Arizona, Tucson, AZ, USA
++ **2020--present**: PhD Student, Tsinghua University, Beijing, China
++ **2016--2020**: Bachelor, Tsinghua University, Beijing, China
 
 ## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">view</a>
