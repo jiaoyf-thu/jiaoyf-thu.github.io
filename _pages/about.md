@@ -15,10 +15,8 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 + **University of Arizona, Tucson, AZ, USA**<br />
   Visiting Student (2024--present)
-  
 + **Tsinghua University, Beijing, China**<br />
   PhD Student (2020--present)
-  
 + **Tsinghua University, Beijing, China**<br />
   Bachelor (2016--2020)
 
