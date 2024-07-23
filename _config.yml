@@ -21,7 +21,7 @@ repository               : "jiaoyf-thu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "aboutme.jpg"
   name             : "Yifei Jiao (he/him)"
   pronouns         : # "he/him"
   bio              : "Hi all, I'm Yifei 🐱‍🐉, a PhD student in astrodynamics and planetary science."
