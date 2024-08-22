@@ -26,4 +26,4 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 3. **Y. Jiao**, B. Cheng, H. Baoyin. Optimal kinetic-impact geometry for asteroid deflection exploiting Delta-V hodograph. *Journal of Guidance, Control, and Dynamics*, 2022. <a href="https://arc.aiaa.org/doi/10.2514/1.G006876" target="_blank">view</a>
 
 ## CV
-A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/Resume.pdf" target="_blank">here</a>.
+A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/jiaoyf-thu-cv.pdf" target="_blank">here</a>.
