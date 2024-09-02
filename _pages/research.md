@@ -10,7 +10,7 @@ author_profile: true
 
 <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="600">
 
-### <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">SPH-DEM method modelling imapcts on rubble-pile asteroids</a>
+### <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">SPH-DEM method modelling impacts on rubble-pile asteroids</a>
 
 <img src="https://jiaoyf-thu.github.io/images/fig2.png"  width="600">
 
