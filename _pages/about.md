@@ -9,7 +9,9 @@ redirect_from:
 
 ## About Me
 
+<p align="justify">
 I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University. My [research](https://jiaoyf-thu.github.io/research/) interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science.
+</p>
 
 ## Education
 
