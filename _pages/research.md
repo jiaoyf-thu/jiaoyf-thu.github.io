@@ -6,6 +6,18 @@ author_profile: true
 
 ## Research Works
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="600">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
+    <p align="justify">
+      In this work, we use numerical simulations to demonstrate that the asteroid 2016HO3's physical and orbital properties are compatible with a fragment from a crater larger than 10–20 km formed on the Moon in the last few million years. The impact could have ejected sufficiently large fragments into heliocentric orbits, some of which could be transferred to Earth 1:1 resonance and persist today. This leads us to suggest the young lunar crater Giordano Bruno as the most likely source.
+    </p>
+  </div>
+</div>
+
 ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
 
 <p align="justify">
