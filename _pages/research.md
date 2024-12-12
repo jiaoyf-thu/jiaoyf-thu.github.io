@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="600">
+    <img src="https://jiaoyf-thu.github.io/images/fig3.png"  width="300">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
