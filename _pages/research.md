@@ -14,7 +14,7 @@ In this work, we use numerical simulations to demonstrate that asteroid 2016HO3'
 
 ### <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">SPH-DEM method modelling impacts on rubble-pile asteroids</a>
 
-A new hybrid SPH–DEM framework is introduced to model the multistage dynamics involving shock propagation and gravitational re-accumulation in rubble-pile impacts, employing the surface contact particles and the interior gravity particles to describe large irregular boulders during long-term evolution. With the proposed method, the complexity of contact computation is reduced from O(N) to O(N^{2/3})⁠, and the gravity computation is accelerated by 100 times while maintaining the same level of resolution. The method is then used to simulate the DART impact on the rubble-pile asteroid Dimorphos.
+A new hybrid SPH–DEM framework is introduced to model the multistage dynamics involving shock propagation and gravitational re-accumulation in rubble-pile impacts, employing the surface contact particles and the interior gravity particles to describe large irregular boulders during long-term evolution. With the proposed method, the complexity of contact computation is reduced from O(N) to $O(N^{2/3})$⁠, and the gravity computation is accelerated by 100 times while maintaining the same level of resolution. The method is then used to simulate the DART impact on the rubble-pile asteroid Dimorphos.
 
 <img src="https://jiaoyf-thu.github.io/images/fig2.png"  width="600">
 
