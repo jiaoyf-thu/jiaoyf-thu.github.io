@@ -20,4 +20,6 @@ A new hybrid SPH–DEM framework is introduced to model the multistage dynamics 
 
 ### <a href="https://arc.aiaa.org/doi/10.2514/1.G006876" target="_blank">Where should we impact an asteroid to effectively deflect it</a>
 
+We introduce the concept of a Delta V hodograph when impacting a potentially hazardous asteroid considering the ejecta contribution. The optimal kinetic impact geometry is then proposed to maximize the deflection distance given the orbital geometry. For a Bennu-like near spherical target, the optimal impact location could be off-centered and increase the effective deflection by up to 50%. For an Itokawa-like elongated target, the optimal impact direction could help improve the effective deflection by 100%.
+
 <img src="https://jiaoyf-thu.github.io/images/fig1.png"  width="600">
