@@ -21,7 +21,7 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 + **2024--Now**: National Natural Science Foundation of China (PhD Student PI)
 + **2025--Now**: Youth Talent Support Program of China Association for Science and Technology
 
-## Selected Publications
+## Publications
 1. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">view</a>
 2. **Y. Jiao**, X. Yan, B. Cheng, H. Baoyin. SPH-DEM modeling of hypervelocity impacts on rubble-pile asteroids. *Monthly Notices of the Royal Astronomical Society*, 2023. <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">view</a>
 3. **Y. Jiao**, B. Cheng, H. Baoyin. Optimal kinetic-impact geometry for asteroid deflection exploiting Delta-V hodograph. *Journal of Guidance, Control, and Dynamics*, 2022. <a href="https://arc.aiaa.org/doi/10.2514/1.G006876" target="_blank">view</a>
