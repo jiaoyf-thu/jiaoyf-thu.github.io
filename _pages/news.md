@@ -6,8 +6,8 @@ author_profile: true
 
 ## News
 
-### 2024 Dec
+### 2024 Dec.
 
 <p align="justify">
-Awarded the Tsinghua Top-Grade Scholarship (10 best graduates per year)
+Honored to receive the Tsinghua Top-Grade Scholarship (awarded annually to only 10 outstanding graduates). Grateful to everyone who supported me on this journey!
 </p>
