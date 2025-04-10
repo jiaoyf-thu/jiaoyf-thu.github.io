@@ -10,5 +10,6 @@ author_profile: true
 
 <p align="justify">
 Honored to receive the Tsinghua Top-Grade Scholarship (awarded annually to only 10 outstanding graduates).
+
 Grateful to everyone who supported me on this journey!
 </p>
