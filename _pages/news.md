@@ -6,8 +6,8 @@ author_profile: true
 
 ## News
 
-### 2025 April 
+### 2024 Dec
 
 <p align="justify">
-Say something.
+Awarded the Tsinghua Top-Grade Scholarship (10 best graduates per year)
 </p>
