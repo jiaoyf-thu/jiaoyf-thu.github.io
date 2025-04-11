@@ -15,14 +15,14 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 ## Education
 
-+ **2020--Now**: PhD Student, Tsinghua University, Beijing, China
++ **2020--2025**: PhD Student, Tsinghua University, Beijing, China
 + **2024 Jan--Jun**: Visiting Student, LPL, University of Arizona, Tucson, AZ, USA
 + **2016--2020**: Bachelor, Tsinghua University, Beijing, China
 
 ## Grants
 
-+ **2024--Now**: National Natural Science Foundation of China (PhD Student PI)
-+ **2025--Now**: Youth Talent Support Program of China Association for Science and Technology
++ **2024--2025**: National Natural Science Foundation of China (PhD Student PI)
++ **2024--2025**: Youth Talent Support Program of China Association for Science and Technology
 
 ## Publications
 
