@@ -15,6 +15,11 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), url("../images/bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
