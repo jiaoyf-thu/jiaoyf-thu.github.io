@@ -18,9 +18,12 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 ## Education
 
 + **2020--2025**: PhD, Tsinghua University, Beijing, China
++ **2016--2020**: Bachelor, Tsinghua University, Beijing, China
+
+## Experience
+
 + **2025 Apr--May**: Visitor, University of Tokyo, Tokyo, Japan
 + **2024 Jan--Jun**: Visitor, LPL, University of Arizona, Tucson, AZ, USA
-+ **2016--2020**: Bachelor, Tsinghua University, Beijing, China
 
 ## Grants
 
