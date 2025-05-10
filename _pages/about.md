@@ -24,8 +24,8 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 
 ## Experience
 
-+ **2025 Apr--May**: Visitor, University of Tokyo & NAOJ, Tokyo, Japan
-+ **2024 Jan--Jun**: Visitor, LPL, University of Arizona, Tucson, AZ, USA
++ **2025 Apr--May**: Visiting student, University of Tokyo & NAOJ, Tokyo, Japan
++ **2024 Jan--Jun**: Visiting student, LPL, University of Arizona, Tucson, AZ, USA
 
 ## Grants
 
