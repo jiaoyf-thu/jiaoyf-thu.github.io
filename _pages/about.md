@@ -15,6 +15,8 @@ I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University
 
 Feel free to contact me at jiaoyf.thu@gmail.com for any discussions! 
 
+<img src="https://jiaoyf-thu.github.io/images/all-asteroids.png"  width="600">
+
 ## Education
 
 + **2020--2025**: PhD, Tsinghua University, Beijing, China
