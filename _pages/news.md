@@ -6,6 +6,12 @@ author_profile: true
 
 ## News
 
+### 2025 May
+
+<p align="justify">
+Completed my PhD defence at Tsinghua!
+</p>
+
 ### 2024 Dec
 
 <p align="justify">
