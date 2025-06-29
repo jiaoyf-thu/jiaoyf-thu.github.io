@@ -15,6 +15,6 @@ Completed my PhD defense at Tsinghua!
 ### 2024 Dec
 
 <p align="justify">
-Awarded the Tsinghua Top-Grade Scholarship (10 outstanding graduates per year).<br>
+Awarded the Tsinghua Top-Grade Scholarship (10 best students per year).<br>
 Grateful to everyone who supported me on this journey!
 </p>
