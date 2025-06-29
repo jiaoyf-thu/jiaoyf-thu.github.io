@@ -9,7 +9,7 @@ author_profile: true
 ### 2025 May
 
 <p align="justify">
-Completed my PhD defense at Tsinghua!
+Completed my PhD defense at Tsinghua University!
 </p>
 
 ### 2024 Dec
