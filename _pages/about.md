@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 <p align="justify">
-I am an early-career researcher in lunar and planetary science. My <a href="https://jiaoyf-thu.github.io/research/">research</a> interests are focused on the collisional and dynamical evolution of small planetary bodies, as well as the asteroid exploration and deflection dynamics. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science. I am eager to exploring any unsolved exciting questions about our solar system using theoretical and numerical methods and open to collaborations. A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/jiaoyf-thu-cv.pdf" target="_blank">here</a>.
+I am an early-career researcher in lunar and planetary science. My <a href="https://jiaoyf-thu.github.io/research/">research</a> interests are focused on the collisional and dynamical evolution of small planetary bodies, as well as the asteroid exploration and deflection dynamics. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science. I am eager to exploring any unsolved exciting questions about our solar system using theoretical and numerical methods and open to collaborations. A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/Rezume.pdf" target="_blank">here</a>.
 </p>
 
 <img src="https://jiaoyf-thu.github.io/images/all-asteroids.png"  width="800">
