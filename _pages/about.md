@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 <p align="justify">
-I am currently a PhD student at Laboratory of AstroDynamics, Tsinghua University. My <a href="https://jiaoyf-thu.github.io/research/">research</a> interests are focused on asteroid exploration and deflection dynamics, as well as the collisional and dynamical evolution of small planetary bodies in the solar system. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science. I am eager to exploring any unsolved exciting questions about our solar system using theoretical and numerical methods and open to collaborations. A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/jiaoyf-thu-cv.pdf" target="_blank">here</a>.
+I am an early-career researcher in lunar and planetary science. My <a href="https://jiaoyf-thu.github.io/research/">research</a> interests are focused on the collisional and dynamical evolution of small planetary bodies, as well as the asteroid exploration and deflection dynamics. I am also engaged in the exploration of numerical simulations and optimization algorithms in planetary science. I am eager to exploring any unsolved exciting questions about our solar system using theoretical and numerical methods and open to collaborations. A copy of my CV is availble <a href="https://jiaoyf-thu.github.io/files/jiaoyf-thu-cv.pdf" target="_blank">here</a>.
 </p>
 
 <img src="https://jiaoyf-thu.github.io/images/all-asteroids.png"  width="800">
@@ -24,7 +24,8 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 
 ## Experience
 
-+ **2025 Apr--May**: Visiting student, University of Tokyo & NAOJ, Tokyo, Japan
++ **2025 Aug**: Visiting scholar, Shanghai Astronomical Observatory, Shanghai, China
++ **2025 May**: Visiting student, University of Tokyo & NAOJ, Tokyo, Japan
 + **2024 Jan--Jun**: Visiting student, LPL, University of Arizona, Tucson, AZ, USA
 
 ## Grants
