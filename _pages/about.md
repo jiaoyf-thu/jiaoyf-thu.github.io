@@ -24,7 +24,7 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 
 ## Experience
 
-+ **2025 Sep--Now**: Research fellow, Universty of California, Santa Cruz, CA, USA
++ **2025 Sep--Now**: Research fellow, University of California, Santa Cruz, CA, USA
 + **2025 Sep--Now**: Postdoc, Tsinghua University, Beijing, China
 + **2025 Aug**: Visiting scholar, Shanghai Astronomical Observatory, Shanghai, China
 + **2025 May**: Visiting student, University of Tokyo & NAOJ, Tokyo, Japan
