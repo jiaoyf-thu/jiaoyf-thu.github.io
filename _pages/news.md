@@ -9,7 +9,7 @@ author_profile: true
 ### 2025 Sep
 
 <p align="justify">
-Arrived in Santa Cruz to begin my postdoc!
+Arrived in Santa Cruz to begin my postdoc project!
 </p>
 
 ### 2025 May
