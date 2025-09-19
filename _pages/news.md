@@ -6,6 +6,12 @@ author_profile: true
 
 ## News
 
+### 2025 Sep
+
+<p align="justify">
+Arrived in Santa Cruz to begin my postdoc!
+</p>
+
 ### 2025 May
 
 <p align="justify">
