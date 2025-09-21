@@ -32,7 +32,7 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 
 ## Grants
 
-+ **2024--2025**: National Natural Science Foundation of China (as PhD student PI)
++ **2024--2025**: National Natural Science Foundation of China (PI)
 + **2024--2025**: Youth Talent Support Program of China Association for Science and Technology
 
 ## Publications
