@@ -35,7 +35,7 @@ Feel free to contact me at jiaoyf.thu@gmail.com for any discussions!
 + **2024--2025**: National Natural Science Foundation of China (PI)
 + **2024--2025**: Youth Talent Support Program of China Association for Science and Technology
 
-## Publications
+## Selected Publications
 
 1. **Y. Jiao**, B. Cheng, H. Baoyin. Probing the Moon from future asteroid impacts: a review. 2025. <a href="https://arxiv.org/abs/2509.01436" target="_blank">view on arXiv</a>
 2. **Y. Jiao**, B. Cheng, Y. Huang, E. Asphaug, B. Gladman, R. Malhotra, P. Michel, Y. Yu, H. Baoyin. Asteroid Kamoʻoalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance. *Nature Astronomy*, 2024. <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">view</a>
