@@ -9,13 +9,13 @@ author_profile: true
 ### 2025 Sep
 
 <p align="justify">
-Arrived in UC Santa Cruz to start my postdoc project!
+Arrived in UC Santa Cruz to start my postdoc project.
 </p>
 
 ### 2025 May
 
 <p align="justify">
-Completed my PhD defense at Tsinghua University!
+Completed my PhD defense at Tsinghua University.
 </p>
 
 ### 2024 Dec
