@@ -18,6 +18,24 @@ To be updated.
 To be updated.
 </p>
 
+### What can we expect if 2024YR4 impacts the Moon in 2032
+
+<p align="justify">
+To be updated.
+</p>
+
+### <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2eab" target="_blank">Hunt for lunar-origin asteroids using ground telescopes</a>
+
+<p align="justify">
+To be updated.
+</p>
+
+### <a href="https://doi.org/10.1093/mnras/staf1628" target="_blank">Reproduce the collision history of an asteroid from its shape</a>
+
+<p align="justify">
+To be updated.
+</p>
+
 ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
 
 <p align="justify">
