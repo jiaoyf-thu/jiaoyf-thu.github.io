@@ -21,6 +21,6 @@ Completed my PhD defense at Tsinghua University.
 ### 2024 Dec
 
 <p align="justify">
-Awarded the Tsinghua Top-Grade Scholarship (highest honor of students, 10 per year).
+Awarded the Tsinghua Top-Grade Scholarship (highest honor for students, 10 per year).
 Grateful to everyone who supported me on this journey!
 </p>
