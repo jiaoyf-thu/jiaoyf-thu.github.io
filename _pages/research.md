@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Works
 
-### Saturn's ring formation from tidal stripping of a pre-existing moon
+### Saturn's ring formation from tidal strip of a pre-existing moon
 
 ### Giant crater formation on large carbonaceous asteroids
 
