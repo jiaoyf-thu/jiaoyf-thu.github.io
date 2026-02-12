@@ -30,7 +30,7 @@ To be updated.
 To be updated.
 </p>
 
-### <a href="https://doi.org/10.1093/mnras/staf1628" target="_blank">Reproduce the collision history of an asteroid from its shape</a>
+### <a href="https://doi.org/10.1093/mnras/staf1628" target="_blank">Reproduce collision history of an asteroid from its shape</a>
 
 <p align="justify">
 To be updated.
