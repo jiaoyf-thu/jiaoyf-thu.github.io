@@ -8,7 +8,15 @@ author_profile: true
 
 ### Saturn's ring formation from tidal strip of a pre-existing moon
 
+<p align="justify">
+To be updated.
+</p>
+
 ### Giant crater formation on large carbonaceous asteroids
+
+<p align="justify">
+To be updated.
+</p>
 
 ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
 
