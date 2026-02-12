@@ -6,6 +6,10 @@ author_profile: true
 
 ## Research Works
 
+### Saturn's ring formation from tidal stripping of a pre-existing moon
+
+### Giant crater formation on large carbonaceous asteroids
+
 ### <a href="https://www.nature.com/articles/s41550-024-02258-z" target="_blank">Earth's quasi-moon as a piece of lunar impact debris</a>
 
 <p align="justify">
